@@ -1,0 +1,25 @@
+.message{
+    display: grid;
+    font-size: 2rem;
+  }
+  
+  .message div{
+    padding: 10px;
+    width: max-content;
+    max-width: 85%;
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  .hours{
+    font-size: 1.5rem;
+    opacity: 0.7;
+  }
+  
+  .sender {
+    justify-self: right;
+  }
+  
+  .receiver{
+    justify-self: left;
+  }
